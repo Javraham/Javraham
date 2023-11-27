@@ -13,7 +13,7 @@ I'm Jonathan Avraham, a passionate software developer interested in creating inn
 
 ### Technologies I Work With
 
-- Languages: JavaScript, Python, Java, TypeScript, C#, SQL
+- Languages: JavaScript, Python, Java, TypeScript, C#, SQL, HTML, CSS
 - Frameworks: React, Node.js, Angular, Express.JS, ASP.Net
 - Tools: Git, JetBrains, Microspft Azure
 
